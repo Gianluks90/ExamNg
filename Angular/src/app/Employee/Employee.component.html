@@ -1,0 +1,30 @@
+<select class="custom-select" type="number" [(ngModel)]="selectValue" (ngModelChange)="ToSelect()">
+  <option *ngFor="let department of allDepartments" [ngValue]="department.id">{{department.id}}</option>
+</select>
+
+<hr>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Surname</th>
+      <th>Birthdate</th>
+      <th>E-Mail</th>
+      <th>Phone</th>
+      <th>Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employee">
+      <td>{{employee.id}}</td>
+      <td>{{employee.firstname}}</td>
+      <td>{{employee.lastname}}</td>
+      <td>{{employee.birthdate  | date: "longDate"}}</td>
+      <td>{{employee.email}}</td>
+      <td>{{employee.phone}}</td>
+      <td>{{employee.address}}</td>
+    </tr>
+  </tbody>
+</table>

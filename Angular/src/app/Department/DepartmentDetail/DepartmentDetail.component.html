@@ -1,0 +1,23 @@
+<table class="table">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Budget</th>
+      <th>Foundation Date</th>
+      <th>Manager Name</th>
+      <th>Category</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{{department.id}}</td>
+      <td>{{department.name}}</td>
+      <td>{{department.budget}} € </td>
+      <td>{{department.foundationDate | date: 'longDate'}}</td>
+      <td>{{department.managerName}}</td>
+      <td *ngIf="department.isTech">Tecnology</td>
+      <td *ngIf="!department.isTech">Commercial</td>
+    </tr>
+  </tbody>
+</table>

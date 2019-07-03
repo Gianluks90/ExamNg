@@ -1,0 +1,13 @@
+h1 {
+    text-align: left;
+    background-color: #343A40;
+    color: white;
+}
+
+nav {
+    margin-top: -8px
+}
+
+button {
+    margin-right: 5px;
+}
