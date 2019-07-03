@@ -1,0 +1,14 @@
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.csprojAssemblyReference.cache
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.csproj.CoreCompileInputs.cache
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.RazorAssemblyInfo.cache
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.RazorAssemblyInfo.cs
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.AssemblyInfoInputs.cache
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.AssemblyInfo.cs
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\bin\Debug\netcoreapp2.2\ExamNg.deps.json
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\bin\Debug\netcoreapp2.2\ExamNg.runtimeconfig.json
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\bin\Debug\netcoreapp2.2\ExamNg.runtimeconfig.dev.json
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\bin\Debug\netcoreapp2.2\ExamNg.dll
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\bin\Debug\netcoreapp2.2\ExamNg.pdb
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.RazorTargetAssemblyInfo.cache
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.dll
+C:\Users\gianluca\source\repos\ExamNg\ExamNg\obj\Debug\netcoreapp2.2\ExamNg.pdb
